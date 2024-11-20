@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llmas-laptrinh&label=Profile%20views&color=0e75b6&style=flat" alt="llmas-laptrinh" /> </p>
 
-- 🔭 I’m currently working on **Social Platform ISGroup**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **asdsad**
-
-- 👯 I’m inital cohost WowDAO **WowDAO**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [link](link)
 
