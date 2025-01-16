@@ -69,7 +69,7 @@ const about = {
     intro: {
         display: true,
         title: 'Introduction',
-        description: <>Experienced Software Engineer with over 3 years of hands-on expertise in developing full-stack web applications, specializing in scalable front-end interfaces with ReactJS/NextJS and secure back-end APIs with Node.js and Python. Proficient in integrating databases, optimizing system performance, and managing end-to-end API integration. Known for strong analytical skills, problem-solving abilities, and a commitment to delivering high-quality code</>
+        description: <>Experienced Software Engineer with over 3 years of hands-on expertise in developing full-stack web applications, specializing in scalable front-end interfaces with ReactJS/NextJS and secure back-end APIs with Node.js and Python. Proficient in integrating databases, smartcontract ,optimizing system performance, and managing end-to-end API integration. Known for strong analytical skills, problem-solving abilities ,and a commitment to delivering high-quality code</>
     },
     work: {
         display: true, // set to false to hide this section
@@ -82,7 +82,7 @@ const about = {
                 achievements: [
                     <>Designed user-friendly interfaces with NextJS, ensuring optimal user experiences.</>,
                     <>Collaborated with team members on requirements analysis and software design to streamline development cycles and maintain code quality.</>,
-                    <>mplemented Docker for deployment, setting up monitoring and logging systems for real-time application tracking</>
+                    <>Implemented Docker for deployment, setting up monitoring and logging systems for real-time application tracking</>
                 ],
                 images: [ // optional: leave the array empty if you don't want to display images
                     // {
@@ -159,7 +159,7 @@ const about = {
             },
             {
                 name: 'Coursera',
-                description: <>Studied online data analytic and AI engineering.</>,
+                description: <>Studied online data analytic, AI engineering, Project Management and Cybersecurity.</>,
             }
         ]
     },
